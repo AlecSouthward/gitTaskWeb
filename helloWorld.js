@@ -1,3 +1,3 @@
-let userInput = prompt("Please enter something.");
+let userInput = prompt("Enter any text you would like.");
 
 console.log(userInput);
