@@ -1,3 +1,5 @@
 let userInput = prompt("Please enter something.");
 
-console.log(userInput);
+for (let i = 0; i < 10; i++) {
+  console.log(userInput);
+}
